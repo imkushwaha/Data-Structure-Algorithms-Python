@@ -11,7 +11,6 @@ def power(base, exp):
 
 
 # Driver Code
-
 if __name__ == "__main__":
     base = float(input("Please enter base: "))
     exp = int(input("Please enter exponent: "))

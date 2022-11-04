@@ -11,7 +11,6 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 # Driver Code
-
 if __name__ == "__main__":
     number = int(input("Please enter your number: "))
     result = fibonacci(number)

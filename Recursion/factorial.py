@@ -8,7 +8,6 @@ def factorial(n: int)-> int:
 
 
 # Driver Code
-
 if __name__ == "__main__":
     number = int(input("Please enter your number: "))
     result = factorial(number)
