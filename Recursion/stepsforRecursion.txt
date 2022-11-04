@@ -1,0 +1,7 @@
+Three steps to write Recursion
+
+Step 1: Recursive Case - The Flow
+
+Step 2: Base Case - The Stopping Criterion
+
+Step 3: Unintentional Case - The Constraint
