@@ -1,0 +1,8 @@
+
+When to use:
+ - To store multiple variables of same data types
+ - Random access
+
+when to avoid:
+ - Same data type elements
+ - Reserve memory
